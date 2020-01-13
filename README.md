@@ -5,8 +5,8 @@ Facilitator: @rsimha(https://github.com/rsimha)
 
 # Members
 - [@danielrozenberg](https://github.com/danielrozenberg) - Daniel Rozenberg
-- [@erwinmombay](https://github.com/erwinmombay) - Erwin Mombay
 - [@estherkim](https://github.com/estherkim) - Esther Kim
+- [@rcebulko](https://github.com/rcebulko) - Ryan Cebulko
 - [@rsimha](https://github.com/rsimha) - Raghu Simha (Facilitator)
 
 
