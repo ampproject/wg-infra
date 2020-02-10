@@ -4,6 +4,7 @@
 Facilitator: @rsimha(https://github.com/rsimha)
 
 # Members
+- [@ajwhatson](https://github.com/ajwhatson) - Anna Watson
 - [@danielrozenberg](https://github.com/danielrozenberg) - Daniel Rozenberg
 - [@estherkim](https://github.com/estherkim) - Esther Kim
 - [@rcebulko](https://github.com/rcebulko) - Ryan Cebulko
