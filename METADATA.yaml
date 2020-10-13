@@ -6,10 +6,10 @@ facilitator:
 members:
   - login: danielrozenberg
     name: Daniel Rozenberg
-  - login: erwinmombay
-    name: Erwin Mombay
   - login: estherkim
     name: Esther Kim
+  - login: rafer45
+    name: Ricardo Aguilera
   - login: rcebulko
     name: Ryan Cebulko
 communication:
