@@ -8,8 +8,6 @@ members:
     name: Daniel Rozenberg
   - login: estherkim
     name: Esther Kim
-  - login: rafer45
-    name: Ricardo Aguilera
   - login: rcebulko
     name: Ryan Cebulko
 communication:
