@@ -6,6 +6,7 @@ Facilitator: [@rsimha](https://github.com/rsimha)
 # Current Members
 - [@danielrozenberg](https://github.com/danielrozenberg) - Daniel Rozenberg
 - [@estherkim](https://github.com/estherkim) - Esther Kim
+- [@rileyajones](https://github.com/rileyajones) - Riley Jones
 - [@rsimha](https://github.com/rsimha) - Raghu Simha (Facilitator)
 
 Github team https://github.com/orgs/ampproject/teams/wg-infra also includes the Infrastructure WG members.
