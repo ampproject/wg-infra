@@ -1,13 +1,13 @@
 # wg-infra
 **wg-infra** [Working Group](https://github.com/ampproject/meta/blob/master/GOVERNANCE.md#working-groups) is responsible  for AMP's infrastructure, including building, testing and release. 
 
-Facilitator: [@rsimha](https://github.com/rsimha)
+Facilitator: [@danielrozenberg](https://github.com/danielrozenberg)
 
 # Current Members
-- [@danielrozenberg](https://github.com/danielrozenberg) - Daniel Rozenberg
+- [@danielrozenberg](https://github.com/danielrozenberg) - Daniel Rozenberg (Facilitator)
 - [@estherkim](https://github.com/estherkim) - Esther Kim
+- [@rsimha](https://github.com/rsimha) - Raghu Simha
 - [@rileyajones](https://github.com/rileyajones) - Riley Jones
-- [@rsimha](https://github.com/rsimha) - Raghu Simha (Facilitator)
 
 Github team https://github.com/orgs/ampproject/teams/wg-infra also includes the Infrastructure WG members.
 
