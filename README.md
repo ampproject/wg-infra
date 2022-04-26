@@ -6,7 +6,6 @@ Facilitator: [@danielrozenberg](https://github.com/danielrozenberg)
 # Current Members
 - [@danielrozenberg](https://github.com/danielrozenberg) - Daniel Rozenberg (Facilitator)
 - [@estherkim](https://github.com/estherkim) - Esther Kim
-- [@rsimha](https://github.com/rsimha) - Raghu Simha
 - [@rileyajones](https://github.com/rileyajones) - Riley Jones
 
 Github team https://github.com/orgs/ampproject/teams/wg-infra also includes the Infrastructure WG members.
@@ -17,6 +16,7 @@ Github team https://github.com/orgs/ampproject/teams/wg-infra also includes the 
 - [@Marcial1234](https://github.com/Marcial1234) - Marcial Abrahantes
 - [@Rafer45](https://github.com/rafer45) - Ricardo Aguilera
 - [@rcebulko](https://github.com/rcebulko) - Ryan Cebulko
+- [@rsimha](https://github.com/rsimha) - Raghu Simha
 
 # Communication Channels
 - Infrastructure Working Group members will use `#wg-infra` channel on AMP's Slack ([signup](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877)) for real-time discussion. The channel is open to anyone, regardless of membership in the working group.
